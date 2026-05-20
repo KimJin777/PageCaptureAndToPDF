@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Generated capture folders and images
+captured_*/
+*.jpg
+*.jpeg
+*.png
+
+# Generated PDF outputs (do not upload generated PDFs)
+*.pdf
